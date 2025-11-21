@@ -95,9 +95,13 @@ wc -1 - counts them
 **Explanation**
 
 awk '{print $5}' - extract 5th column 
+
 sort - sort alphabetically
+
 uniq - c - counts duplicates
+
 sort -nr - sort descending
+
 head -1 - show first line
 
 
